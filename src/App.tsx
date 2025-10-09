@@ -24,7 +24,7 @@ function App() {
       <footer className="bg-black text-white py-8 text-center">
         <div className="container mx-auto px-4">
           <p className="text-gray-400">
-            © 2024 Made Wijaya - Professional Tour Guide & Driver in Bali
+            © 2025 Gus De - Professional Tour Guide & Driver in Bali
           </p>
           <p className="text-sm text-gray-500 mt-2">
             Licensed Tour Guide | Safe & Reliable Transportation
