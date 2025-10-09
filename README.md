@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bali Tour Guide Website
 
 Professional tour guide and driver website for Bali tourism services.
@@ -84,3 +85,6 @@ For tour bookings and inquiries, contact via WhatsApp: [Your WhatsApp Number]
 ## License
 
 This project is open source and available under the MIT License.
+=======
+# Gus-De-Tour-Guide
+>>>>>>> fdf35ecfd84c6d33a0c4d7f3c6649d891a194a3f
