@@ -2,7 +2,7 @@ import React from 'react';
 import { MessageCircle, Phone, Mail, MapPin, Clock, Globe } from 'lucide-react';
 
 const Contact = () => {
-  const whatsappNumber = "+6281234567890"; // Replace with your actual WhatsApp number
+  const whatsappNumber = "6282266321432"; // Replace with your actual WhatsApp number
   const whatsappMessage = "Hi! I'm interested in booking a tour in Bali. Can you help me plan my trip?";
 
   const openWhatsApp = () => {
