@@ -54,7 +54,7 @@ const Contact = () => {
                 <Mail className="h-6 w-6 text-blue-400" />
                 <div>
                   <p className="font-medium">Email</p>
-                  <p className="text-gray-300">jikdek@gmail.com</p>
+                  <p className="text-gray-300">gustigusde84@gmail.com</p>
                 </div>
               </div>
 
@@ -98,15 +98,15 @@ const Contact = () => {
             <div className="space-y-4 mb-6">
               <div className="flex justify-between items-center bg-white/20 rounded-lg p-3">
                 <span>Half Day Tour</span>
-                <span className="font-semibold">From $30</span>
+                <span className="font-semibold">From $35</span>
               </div>
               <div className="flex justify-between items-center bg-white/20 rounded-lg p-3">
                 <span>Full Day Tour</span>
-                <span className="font-semibold">From $50</span>
+                <span className="font-semibold">From $60</span>
               </div>
               <div className="flex justify-between items-center bg-white/20 rounded-lg p-3">
-                <span>Airport Transfer</span>
-                <span className="font-semibold">From $15</span>
+                <span>Airport Transportr</span>
+                <span className="font-semibold">From $35</span>
               </div>
             </div>
 

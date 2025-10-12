@@ -7,7 +7,7 @@ const About = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
-            About Gus De
+            About Gusde Bob
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             Passionate about sharing the beauty and culture of Bali with visitors from around the world
@@ -17,11 +17,11 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-3xl font-bold text-gray-800 mb-4">
-              Hi, I'm Gus De
+              Hi, I'm Gusde Bob
             </h3>
             <p className="text-gray-600 text-lg leading-relaxed">
               Born and raised in Bali, I have been sharing the magic of this beautiful island with tourists 
-              for over 5 years. As both a licensed tour guide and experienced driver, I provide personalized 
+              for over 15 years. As both a licensed tour guide and experienced driver, I provide personalized 
               tours that showcase the authentic Balinese culture, hidden gems, and must-see attractions.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed">
@@ -64,7 +64,7 @@ const About = () => {
               <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
             </div>
             <div className="absolute -bottom-6 -right-6 bg-orange-500 text-white p-4 rounded-xl shadow-lg">
-              <p className="font-bold text-2xl">5+</p>
+              <p className="font-bold text-2xl">15+</p>
               <p className="text-sm">Years Experience</p>
             </div>
           </div>
