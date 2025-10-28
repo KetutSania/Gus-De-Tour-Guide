@@ -6,7 +6,7 @@ const Portfolio = () => {
 
   const portfolioImages = [
     {
-      src: "/img/tirta empul.jpg",
+      src: "/img/Tirta Empul.jpg",
       alt: "Tourists at Tanah Lot Temple",
       location: "Tirta Empul"
     },
@@ -31,9 +31,9 @@ const Portfolio = () => {
       location: "Besakih Temple"
     },
     {
-      src: "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
-      alt: "Beach tour with tourists",
-      location: "Uluwatu Beach"
+      src: "img/Kantolampo Waterfall.jpg",
+      alt: "Waterfall tour with tourists",
+      location: "Katolampo Waterfall"
     },
     {
       src: "https://images.pexels.com/photos/2832432/pexels-photo-2832432.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
