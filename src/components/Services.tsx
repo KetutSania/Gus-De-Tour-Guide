@@ -42,18 +42,18 @@ const Services = () => {
   ];
 
   const destinations = [
-    "Tanah Lot Temple",
+    "Tegalalang Rice terrace ",
     "Ubud Rice Terraces", 
-    "Mount Batur Sunrise",
+    "Goa gajah",
     "Sekumpul Waterfall",
-    "Uluwatu Temple",
-    "Tegallalang Rice Terrace",
-    "Besakih Temple",
-    "Kintamani Volcano",
-    "Monkey Forest Sanctuary",
+    "Campuhan Bridge Walk",
+    "Monkey Forest",
+    "Tirta empul temple",
+    "Butterfly Park",
+    "Kato Lampo Waterfal",
     "Tegenungan Waterfall",
-    "Lempuyang Temple",
-    "Jatiluwih Rice Terrace"
+    "Coffee plantation",
+    "Gunung kawi temple"
   ];
 
   return (

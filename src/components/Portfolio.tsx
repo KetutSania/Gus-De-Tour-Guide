@@ -46,7 +46,7 @@ const Portfolio = () => {
       location: "Ubud Palace"
     },
     {
-      src: "img/Tirta Empul2",
+      src: "img/Tirta empul2.jpg",
       alt: "Titra Empul",
       location: "Tirta Empul"
     }
