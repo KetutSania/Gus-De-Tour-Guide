@@ -36,19 +36,19 @@ const Portfolio = () => {
       location: "Katolampo Waterfall"
     },
     {
-      src: "https://images.pexels.com/photos/2832432/pexels-photo-2832432.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
-      alt: "Traditional market tour",
-      location: "Ubud Traditional Market"
+      src: "img/Tegalalang rice terrace.jpg",
+      alt: "Tegalalang Rice Terrace",
+      location: "Tegalalang Rice Terrace"
     },
     {
-      src: "https://images.pexels.com/photos/1450340/pexels-photo-1450340.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
-      alt: "Monkey forest sanctuary",
-      location: "Sacred Monkey Forest"
+      src: "img/Ubud palace.jpg",
+      alt: "Ubud palace",
+      location: "Ubud Palace"
     },
     {
-      src: "https://images.pexels.com/photos/2406945/pexels-photo-2406945.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
-      alt: "Lempuyang temple gates",
-      location: "Lempuyang Temple"
+      src: "img/Tirta Empul2",
+      alt: "Titra Empul",
+      location: "Tirta Empul"
     }
   ];
 
